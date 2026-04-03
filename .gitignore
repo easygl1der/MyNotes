@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*~
+临时工作区/*
+!临时工作区/_index.md
